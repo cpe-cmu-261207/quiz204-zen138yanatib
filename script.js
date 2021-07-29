@@ -8,6 +8,18 @@ const color = document.querySelector('#color')
 
 btn_toggle.onclick = () => {
   // your code here
+  var text = document.getElementById("text").innerHTML;
+  var length = document.getElementById("length").value;
+  const myArr = text.split(" ");
+  var stringOut = "";
+  for(let i=0;i<myArr.length;i++){
+    if(myArr[i].length >= length){
+      stringOut += "<mark>" + myArr[i] + "</mark> ";
+    }else{
+      stringOut += myArr[i] + " ";
+    }
+  }
+  document.getElementById("text").innerHTML = stringOut; 
 }
 
 // more codes for Search and Reset buttons here
