@@ -5,4 +5,5 @@
 https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/ESuhkX7QClJInNdoba4rwQEBsyGRbCBd2D5By2GQlKF5sg?e=2IFCAC
 
 #### ระบุ URL ของ Github Pages สำหรับเว็บไซต์นี้ด้านใต้หัวข้อนี้
+https://cpe-cmu-261207.github.io/quiz204-zen138yanatib/
 
